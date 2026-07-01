@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0245/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 六字大陀羅尼呪經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1046.xml
+    old_id: T20n1046
+hash: sha256:094bc1e57b442768b93c48c827ff8f2b194476d68d1f67743014931d29465fa9
