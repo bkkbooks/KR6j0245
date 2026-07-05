@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0245_000.yaml, hash: 'sha256:094bc1e57b442768b93c48c827ff8f2b194476d68d1f67743014931d29465fa9'}
-  - {seq: 1, filename: KR6j0245_001.yaml, hash: 'sha256:d9bf95b241431361b8a413b5da31afba59c142b642be7e14c4893512f012725c'}
+  - {seq: 1, filename: KR6j0245_001.yaml, hash: 'sha256:ee59754041eb067477e226fc3d2495b1aa61f00f2b1b345b218e57b41ad5a3bf'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0245_001.markers.yaml, hash: 'sha256:7348fe0b0eff93d71426089540f4e290a49234afa93ec49a5f7c5bb6248dce3d'}
+  - {seq: 0, role: markers, filename: assets/KR6j0245_000.markers.yaml, hash: 'sha256:5d917fe259c8835840721c39f68bcdd0cb1e22f8672c4ea6853f20fa4de027f6'}
+  - {seq: 1, role: markers, filename: assets/KR6j0245_001.markers.yaml, hash: 'sha256:cf26792ef44c453ad46b652327ba75f5feb16a469333a04480e75e32a983c1a0'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,7 +43,4 @@ table_of_contents:
   label: 六字大陀羅尼呪經
   type: juan
   level: 1
-hash: sha256:89287ae2a4c64c15651bffe77a1b58db7e366ec0f55f9cd6c5ce91670074aed8
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:eb3b490febf2bc4b973f4bb30712ae1abde096cce688daa4b314e12a43e27946
