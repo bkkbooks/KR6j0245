@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0245/v1
 canonical_location: https://kanripo.org/bkk/KR6j0245/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 六字大陀羅尼呪經
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0245_000.yaml, hash: 'sha256:094bc1e57b442768b93c48c827ff8f2b194476d68d1f67743014931d29465fa9'}
-  - {seq: 1, filename: KR6j0245_001.yaml, hash: 'sha256:ee59754041eb067477e226fc3d2495b1aa61f00f2b1b345b218e57b41ad5a3bf'}
+  - {seq: 1, filename: KR6j0245_001.yaml, hash: 'sha256:80ad90428150db2098fc77e2bdd57511854c9c580105fe8456184fbe62f2adbe'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0245_000.markers.yaml, hash: 'sha256:5d917fe259c8835840721c39f68bcdd0cb1e22f8672c4ea6853f20fa4de027f6'}
-  - {seq: 1, role: markers, filename: assets/KR6j0245_001.markers.yaml, hash: 'sha256:cf26792ef44c453ad46b652327ba75f5feb16a469333a04480e75e32a983c1a0'}
+  - {seq: 1, role: markers, filename: assets/KR6j0245_001.markers.yaml, hash: 'sha256:a8bbdacf8bebd70748adc6ef68ce4937c7545db515e65a2879d551572f13575f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -43,4 +43,7 @@ table_of_contents:
   label: 六字大陀羅尼呪經
   type: juan
   level: 1
-hash: sha256:eb3b490febf2bc4b973f4bb30712ae1abde096cce688daa4b314e12a43e27946
+hash: sha256:b17a1f6e96d6ef2f19a8d6dad1e606d16eb781321a52ff8abbd5284fbc1ca202
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
